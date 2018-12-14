@@ -296,3 +296,10 @@ During the development process, we used various tools to investigate possible pe
 * Unity's shader "compile and show code" - It shows the shader assembly and gives an idea on how expensive the shaders will be once being executed on device. A rule of thumb is that lower instructions count especially in the pixel/fragment shader is better.
 * Visual Studio Graphics Debugger - Very powerful tool that gives timing on both the CPU and GPU side, can analyze shader performance and reveal hot code path on the CPU
 GPU View (Integrated with Visual Studio Graphics Debugger) - Gives precise timing on the GPU and CPU workload on device. Best used to determine if the experience is GPU bound or CPU bound.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
